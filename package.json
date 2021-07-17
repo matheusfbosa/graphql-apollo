@@ -6,8 +6,14 @@
   "repository": "https://github.com/bosamatheus/graphql-apollo.git",
   "author": "Matheus Bosa <matheusbozza@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
   "dependencies": {
     "apollo-server": "^3.0.1",
     "graphql": "^15.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
