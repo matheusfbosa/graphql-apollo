@@ -1,0 +1,13 @@
+{
+  "name": "graphql-apollo",
+  "version": "1.0.0",
+  "description": "GraphQL Server",
+  "main": "index.js",
+  "repository": "https://github.com/bosamatheus/graphql-apollo.git",
+  "author": "Matheus Bosa <matheusbozza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.0.1",
+    "graphql": "^15.5.1"
+  }
+}
